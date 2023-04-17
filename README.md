@@ -3,13 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xflasar&label=Profile%20views&color=001852&style=plastic" alt="xflasar" /> </p>
 
-- 🔭 I’m currently working on [Space Engineers Scripts](https://github.com/xflasar/SpaceEngineersScripts)
+- 🔭 I’m currently working on [Space Engineers Scripts](https://github.com/xflasar/SpaceEngineersScripts) and [BDO Grind Tracker](https://github.com/xflasar/BDO-Grind-Tracker)
 
-- 🌱 I’m currently learning **React JS, Python**
+- 🌱 I’m currently learning **React JS, Python and C#**
 
 - ⚡ Fun fact **Fast learner.**
 
 <h3 align="left">Connect with me:</h3>
+- 📧 xflasar@gmail.com
+
+
 <p align="left">
 </p>
 
