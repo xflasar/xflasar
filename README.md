@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xflasar&label=Profile%20views&color=001852&style=plastic" alt="xflasar" /> </p>
 
-- 🔭 I’m currently working on [Space Engineers Scripts](https://github.com/xflasar/SpaceEngineersScripts) and [BDO Grind Tracker](https://github.com/xflasar/BDO-Grind-Tracker)
+- 🔭 I’m currently working on [Space Engineers Scripts](https://github.com/xflasar/SpaceEngineersScripts), [BDO Grind Tracker](https://github.com/xflasar/BDO-Grind-Tracker) and [LeetCode](https://github.com/xflasar/LeetCode)
 
 - 🌱 I’m currently learning **React JS, Python and C#**
 
