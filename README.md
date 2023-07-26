@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Wordun-Online-Eshop](https://github.com/xflasar/wordun-online-eshop), [BDO Grind Tracker](https://github.com/xflasar/BDO-Grind-Tracker) [![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/09f64d4e-f2a5-410f-bedf-6b52b847b2ca.svg)](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/09f64d4e-f2a5-410f-bedf-6b52b847b2ca) and [LeetCode](https://github.com/xflasar/LeetCode)
 
-- 🌱 I’m currently learning **React.js, Java and Vue.js**
+- 🌱 I’m currently learning **React.js, Node.js, Java and Vue.js**
 
 - ⚡ Fun fact **Fast learner.**
 
