@@ -7,7 +7,7 @@
   - [Wordun-Online-Eshop](https://github.com/xflasar/wordun-online-eshop) ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/c219523f-a0f0-446a-bddb-3acf935cc54d.svg)
   - [BDO Grind Tracker](https://github.com/xflasar/BDO-Grind-Tracker) ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/09f64d4e-f2a5-410f-bedf-6b52b847b2ca.svg)
   - [Awuama](https://github.com/xflasar/Awuama) ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/8aa12b3c-410b-49c5-9825-a57f49bddf46.svg)
-  - [LeetCode](https://github.com/xflasar/LeetCode)
+  - [Portfolio](https://github.com/xflasar/Portfolio) ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/f79aadb1-c141-4672-83f7-d07b25c8b44b.svg)
 
 - 🌱 I’m currently learning **React.js, Node.js, Java and Vue.js**
 
