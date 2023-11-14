@@ -9,6 +9,7 @@
   - [Awuama](https://github.com/xflasar/Awuama) ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/8aa12b3c-410b-49c5-9825-a57f49bddf46.svg) - (Paused)
   - [Portfolio](https://github.com/xflasar/Portfolio) ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/f79aadb1-c141-4672-83f7-d07b25c8b44b.svg)
   - [Recipator](https://github.com/xflasar/Recipator) [![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/018af1db-b8fb-4090-be21-7c935fd50435.svg)](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/018af1db-b8fb-4090-be21-7c935fd50435)
+  - [NTE-Exclusive (Discord Bot)](https://github.com/xflasar/NTE-Exclusive) ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/018bc97d-7bd8-47f2-93e3-7624ee258f01.svg)
 
 - 🌱 I’m currently learning **React.js, Node.js, Java and Vue.js**
 
