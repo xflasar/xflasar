@@ -5,12 +5,12 @@
 
 - 🔭 I’m currently working on
   - [Wordun-Online-Eshop](https://github.com/xflasar/wordun-online-eshop) ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/c219523f-a0f0-446a-bddb-3acf935cc54d.svg) - (Paused)
-  - [Awuama](https://github.com/xflasar/Awuama) ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/8aa12b3c-410b-49c5-9825-a57f49bddf46.svg) - (Paused)
+  - [Tarella](https://github.com/xflasar/Tarella) ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/ff30909e-6554-47f0-80b7-6867c487d5af.svg) - 2D Game in Godot Engine
   - [Portfolio](https://github.com/xflasar/Portfolio) ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/f79aadb1-c141-4672-83f7-d07b25c8b44b.svg)
-  - [Recipator](https://github.com/xflasar/Recipator) [![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/018af1db-b8fb-4090-be21-7c935fd50435.svg)](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/018af1db-b8fb-4090-be21-7c935fd50435) (Paused)
+  - [Recipator](https://github.com/xflasar/Recipator) [![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/018af1db-b8fb-4090-be21-7c935fd50435.svg)](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/018af1db-b8fb-4090-be21-7c935fd50435) - (Paused)
   - [Atoraxxia](https://github.com/xflasar/Atoraxxia)![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/09f64d4e-f2a5-410f-bedf-6b52b847b2ca.svg) + ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/0c8894d3-68f1-4ecb-93c3-b3a07cece986.svg) + ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/e0dafa00-c95b-46e2-838f-827f65ac8b20.svg)
 
-- 🌱 I’m currently learning **React.js, Node.js, Java and Vue.js**
+- 🌱 I’m currently learning **React.js, Node.js, Java and GScript/C#/2D Developement**
 
 - ⚡ Fun fact **Fast learner.**
 
