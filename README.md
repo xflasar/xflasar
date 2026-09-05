@@ -5,10 +5,11 @@
 
 - 🔭 I’m currently working on
   - [PUNoted](https://github.com/xflasar/PUNoted)
+  - [PUNoted-API](https://github.com/xflasar/PUNoted-API)
   - [Portfolio](https://github.com/xflasar/Portfolio) ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/f79aadb1-c141-4672-83f7-d07b25c8b44b.svg)
-  - [Atoraxxia](https://github.com/xflasar/Atoraxxia)![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/09f64d4e-f2a5-410f-bedf-6b52b847b2ca.svg) + ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/0c8894d3-68f1-4ecb-93c3-b3a07cece986.svg) + ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/e0dafa00-c95b-46e2-838f-827f65ac8b20.svg)
+  - [Atoraxxia (Paused)](https://github.com/xflasar/Atoraxxia)![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/09f64d4e-f2a5-410f-bedf-6b52b847b2ca.svg) + ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/0c8894d3-68f1-4ecb-93c3-b3a07cece986.svg) + ![wakatime](https://wakatime.com/badge/user/e5350e79-5cdc-4d81-8f7b-c9b8e54dbde1/project/e0dafa00-c95b-46e2-838f-827f65ac8b20.svg)
 
-- 🌱 I’m currently learning **React.js, Node.js, TS, Java and GScript/C#/2D Developement**
+- 🌱 I’m currently learning **React.js, Node.js, Python, TS, Java and GScript/C#/2D Developement**
 
 - ⚡ Fun fact **Fast learner.**
 
